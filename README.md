@@ -1,4 +1,4 @@
-#IP-INFO
+IP-INFO
 
 Creator: Crizzy;
 
