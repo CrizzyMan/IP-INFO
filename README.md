@@ -14,6 +14,10 @@ Requirements:
 
 https://github.com/CrizzyMan/IP-INFO.git
 
+After that run the following code: 
+
+pip install -r requirements.txt
+
 2) Opening IP-INFO you will be asked to enter 1 or 2: 1 if you want to find out ONLY the IP of a site, for example: www.google.com or google.com; 2 if you want to find out information SPECIFIC to an IP address, for example: 127.0.0.1;
 
 3) The software is for INFORMATIONAL purposes ONLY, the author does not take ANY RESPONSIBILITY for the use you make of the software;
