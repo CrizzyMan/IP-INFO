@@ -12,7 +12,7 @@ Requirements:
 
 1) Clone the repository with the following code:
 
-https://github.com/CrizzyMan/IP-INFO.git
+git clone https://github.com/CrizzyMan/IP-INFO.git
 
 After that run the following code: 
 
