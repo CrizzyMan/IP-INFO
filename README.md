@@ -10,6 +10,8 @@ Requirements:
 
 -git (To install git on Linux type: sudo apt install git;)
 
+-pip (To install pip on Linux type: sudo apt install python3-pip;)
+
 1) Clone the repository with the following code:
 
 git clone https://github.com/CrizzyMan/IP-INFO.git
