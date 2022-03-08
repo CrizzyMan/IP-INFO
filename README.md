@@ -1,6 +1,7 @@
 IP-INFO
 
 Creator: Crizzy;
+
 Alias: CrizzyMan;
 
 Requirements:
@@ -11,7 +12,7 @@ Requirements:
 
 1) Clone the repository with the following code:
 
-code
+https://github.com/CrizzyMan/IP-INFO.git
 
 2) Opening IP-INFO you will be asked to enter 1 or 2: 1 if you want to find out ONLY the IP of a site, for example: www.google.com or google.com; 2 if you want to find out information SPECIFIC to an IP address, for example: 127.0.0.1;
 
