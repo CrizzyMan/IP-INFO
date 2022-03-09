@@ -24,8 +24,12 @@ pip install -r requirements.txt
 
 3) The software is for INFORMATIONAL purposes ONLY, the author does not take ANY RESPONSIBILITY for the use you make of the software;
 
+4-A) Port Scanner:
 
-4) Port Scanner:
+The speed at which the software finds open ports depends on how many processors you have. 
+If you are from VirtualBox from the settings you can increase or decrease the processors.
+
+4-B) Port Scanner:
 
    Copyright (c) 2020 Michele Saba
    
