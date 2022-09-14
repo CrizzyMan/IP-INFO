@@ -1,6 +1,6 @@
 IP-INFO
 
-Creator: Crizzy;
+Creator: Frenkits;
 
 Alias: CrizzyMan;
 
